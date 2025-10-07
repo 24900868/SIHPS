@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 07:10:2025
+## Register Number:212224230148
+## Name: Mahalakshmi M
 
 ## Problem Title 
 
@@ -40,26 +40,34 @@ Provide e-waste facilities with a dashboard showcasing real-time analytics and i
 ![alt text](image-1.png)
 
 ## Use Cases
+UC1: User finds nearby recycling center based on GPS.
+
+UC2: User books a pickup request.
+
+UC3: User completes eco-learning and earns badges.
+
+UC4: User redeems eco-points for real-world rewards.
+
+UC5: Admin manages facilities, monitors pickups, and approves certificates.
 ![alt text](10-2.jpg)
 
 ## Technology Stack
-React.js
-
-Node.js 
-
-PostgreSQL
-
-Google maps
-
-Firebox Authenticator
-
-Git , Postman or Insomnia
+Layer Technology Frontend React.js (Web) / React Native (Mobile) Backend Node.js + Express.js Database PostgreSQL Maps API Google Maps / OpenStreetMap Authentication Firebase Auth Cloud Hosting AWS / Render / Vercel Testing Postman, Insomnia
 
 ## Dependencies
 
-Mapping service- 10 days
+Task Time Estimate Maps integration 7 days Facility database setup 5 days Pickup scheduling backend 6 days Learning hub module 8 days Certification & rewards system 5 days
 
-Data collection- 10 days
+Budget Estimate: ₹55,000
 
-budget- rs.50,000
+## Summary of Fresh Features:
+Doorstep pickup system.
+
+Eco-learning modules and badges.
+
+Digital certificates for eco-warriors.
+
+Real-world rewards for responsible recycling.
+
+Impact tracker dashboard for users.
 
